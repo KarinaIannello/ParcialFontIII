@@ -1,0 +1,31 @@
+.producto {
+  border: 0.5px solid #ddd;
+  padding: 20px;
+  width: 33%;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+/* .productoImg {
+  width: 200px;
+} */
+
+.productoH5 {
+  text-align: center;
+}
+
+.productoH5Span {
+  background-color: rgb(255, 178, 178);
+  padding: 3px;
+  font-weight: lighter;
+  color: rgb(155, 0, 0);
+  border-radius: 3px;
+}
+
+.productoButton {
+  padding: 5px;
+  text-transform: uppercase;
+}
